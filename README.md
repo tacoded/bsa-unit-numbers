@@ -1,6 +1,6 @@
 # BSA Unit Number Patches
 
-Computer generated versions of the Boy Scouts of America Unit Patches
+Computer generated versions of the Boy Scouts of America Unit Number Patches
 
 ![Sample Red Unit](sample.jpg)
 
