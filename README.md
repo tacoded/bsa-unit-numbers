@@ -1,5 +1,7 @@
 # BSA Unit Numbers
 
+[Simple PHP multi-number generator](generator.php)
+
 Computer generated versions of the [Boy Scouts of America](https://www.scouting.org/) Unit Number Patches.
 - Cub Scouts (Packs): White embroidery on a red background
 - Scouts BSA (Troops): Green embroidery on a khaki/tan background.
